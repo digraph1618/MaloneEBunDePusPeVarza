@@ -193,4 +193,4 @@
 	};
 
 })(jQuery);
-
+Master branch was here!
